@@ -28,9 +28,9 @@ The following Seaborn plot types are commonly used across the projects in this r
 | `sns.violinplot()`| Combine boxplot and KDE to show distribution shape                    |
 
 ### 📁 Projects Using Seaborn:
-- **Project 1:** [Name] – Heatmaps and pairplots used for EDA
-- **Project 2:** [Name] – Boxplots and barplots for comparing features
-- **Project 3:** [Name] – Lineplots for analyzing trends over time
+- **Project 1:** [HEALTHCARE] – Heatmaps and pairplots used for EDA
+- **Project 2:** [IRIS] – Boxplots and barplots for comparing features
+- **Project 3:** [SPORTS(FIFA)] – Lineplots for analyzing trends over time
 - *(And so on… you can customize this list)*
 
 ### 🔧 Setup Instructions
