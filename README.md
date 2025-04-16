@@ -42,4 +42,3 @@ pip install seaborn
 
 ---
 
-Want to include example images of your visualizations too? I can help you generate a clean layout for that as well — just say the word!
